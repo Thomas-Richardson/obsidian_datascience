@@ -1,4 +1,4 @@
-# obsidian_tag_similarity
+# Use AI to identify which of your Obsidian tags are similar to each other
 
 A python script that uses OpenAI's embeddings API to identify which tags in your Obsidian vault are likely to be duplicates.
 
